@@ -6,3 +6,4 @@ collaborators2 => sabsala
 
 
 
+ok, zo dan?
